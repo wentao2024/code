@@ -3,7 +3,7 @@ class LRUCache {
         int key;
         int val;
         Node prev;
-        Node 
+        
         Node(int key, int val){
             this.key = key;
             this.val = val;
